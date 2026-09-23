@@ -5,3 +5,7 @@ Answer: For version control and collaboration on coding projects!
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Geology! Using GIS systems you can analyze data collecte by NOAA, USGS, etc. about weather, disasters, etc.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge keeps branch histories even after joining the commit history, while rebase replays branch commits over the main branch as if it was all done on that branch.
