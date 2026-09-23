@@ -9,3 +9,7 @@ Answer: Geology! Using GIS systems you can analyze data collecte by NOAA, USGS, 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge keeps branch histories even after joining the commit history, while rebase replays branch commits over the main branch as if it was all done on that branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning about the machine learning aspects of working with data!
