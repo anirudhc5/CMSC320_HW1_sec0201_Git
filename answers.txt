@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Geology! Using GIS systems you can analyze data collecte by NOAA, USGS, etc. about weather, disasters, etc.
